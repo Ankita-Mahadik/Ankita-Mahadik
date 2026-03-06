@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java, spring boot, hibernate, mysql, jsp, javascript, html, css, webhook, cicd, git, github, n8n <br>🌱 I’m currently learning n8n, deployment, ci cd, <br>
+🔭 I’m currently working on Java, spring boot, hibernate, mysql, jsp, javascript, html, css, webhook, cicd, git, github, n8n <br>🌱 I’m currently learning n8n, deployment, redis, prompt Engineering, AI ML.
 
 
 ## 🌐 Socials:
